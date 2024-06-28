@@ -51,12 +51,12 @@ python Dice_Recognition.ipynb
 
 ## Input
 
-![iutput](input\dice.png)
+![iutput](input/dice.png)
 
 
 ## Results
 
-![output](output\R_dice.png)
+![output](output/R_dice.png)
 
 
 -----------------------------------------
@@ -78,11 +78,11 @@ python BoundingRect.py
 
 ## Input
 
-![iutput](input\wolf.jpg)
+![iutput](input/wolf.jpg)
 
 ## Results
 
-![output](output\Boundrect.jpeg)
+![output](output/Boundrect.jpeg)
 
 ## 4. Implement cv2.contourArea() function from scratch.
 
@@ -101,11 +101,11 @@ python ContourArea.py.py
 
 ## Input
 
-![iutput](input\wolf.jpg)
+![iutput](input/wolf.jpg)
 
 ## Results
 
-![output](output\Contour_Area.jpg)
+![output](output/Contour_Area.jpg)
 
 ## 5. Implement cv2.findContours() function from scratch.
 
@@ -124,11 +124,11 @@ python FindContours.py
 
 ## Input
 
-![iutput](input\wolf.jpg)
+![iutput](input/wolf.jpg)
 
 ## Results
 
-![output](output\Opencv_Contours.png)
+![output](output/Opencv_Contours.png)
 
 -----------------------------------------
 
@@ -152,9 +152,9 @@ python Funny_Webcam_Application.py
 
 ## Results
 
-![output](output\W4.png)
-![output](output\W2.png)
-![output](output\W3.png)
+![output](output/W4.png)
+![output](output/W2.png)
+![output](output/W3.png)
 
 
 
