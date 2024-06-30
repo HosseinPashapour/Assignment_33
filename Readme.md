@@ -14,11 +14,6 @@ Run following commend :
 ```
 pip install -r requirments.txt
 ```
-## How to Run
-Execute this command in terminal :
-```
-python Histogram_to _Image.ipynb
-```
 
 ## Input
 
@@ -42,11 +37,6 @@ python Histogram_to _Image.ipynb
 Run following commend :
 ```
 pip install -r requirments.txt
-```
-## How to Run
-Execute this command in terminal :
-```
-python Dice_Recognition.ipynb
 ```
 
 ## Input
